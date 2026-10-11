@@ -1,0 +1,11 @@
+{
+  "org": "psf",
+  "repo": "bpo-django-gae2django",
+  "versions": [
+    {
+      "commit": "a949341b00639f1227fcd26b9ca65bf6027aa3fd",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:25:57.592218+00:00"
+    }
+  ]
+}

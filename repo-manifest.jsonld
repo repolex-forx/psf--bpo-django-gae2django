@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/bpo-django-gae2django",
+  "@type": "gh:Repository",
+  "gh:name": "bpo-django-gae2django",
+  "gh:owner": "psf",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/psf/bpo-django-gae2django/commit/a949341b00639f1227fcd26b9ca65bf6027aa3fd",
+      "git:hexsha": "a949341b00639f1227fcd26b9ca65bf6027aa3fd",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

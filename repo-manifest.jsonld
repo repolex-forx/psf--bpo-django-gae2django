@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/bpo-django-gae2django/commit/a949341b00639f1227fcd26b9ca65bf6027aa3fd",
       "git:hexsha": "a949341b00639f1227fcd26b9ca65bf6027aa3fd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
